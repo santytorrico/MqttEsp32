@@ -1,8 +1,8 @@
 #include <WiFi.h>
 #include <PubSubClient.h>
 
-const char * WIFI_SSID = "FLIA BOLEA ";
-const char * WIFI_PASS = "BRUNOMAT";
+const char * WIFI_SSID = "-------";
+const char * WIFI_PASS = "*********";
 
 const char * MQTT_BROKER = "broker.hivemq.com";
 const int MQTT_BROKER_PORT = 1883;
